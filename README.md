@@ -6,7 +6,7 @@
 
 # Overview
 > 介绍异常交易行为监控系统的技术架构
-
+![Alt text](https://github.com/JiuzhouSec/nightwatch/raw/master/Screenshots/jg.png)
 # 风控引擎
 > 介绍Storm和Esper
 
